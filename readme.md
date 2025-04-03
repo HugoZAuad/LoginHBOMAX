@@ -11,11 +11,11 @@ Este é um projeto de interface de login inspirado no HBO Max. O objetivo é cri
 - [Funcionalidades](#funcionalidades)
 - [Responsividade](#responsividade)
 - [Como Executar o Projeto](#como-executar-o-projeto)
-- [Deploy](#deploy)
 - [Protótipo no Figma](#protótipo-no-figma)
 - [Estrutura de Pastas](#estrutura-de-pastas)
 - [Contribuição](#contribuição)
 - [Licença](#licença)
+- [Deploy](#deploy)
 
 ---
 
