@@ -101,4 +101,4 @@ Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo e modifi
 
 ## Deploy
 
-- https://hugozauad.github.io/LoginHBOMAX/
+- https://login-hbomax.vercel.app
