@@ -99,7 +99,6 @@ Abra um Pull Request.
 ## 📜 Licença
 Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo e modificá-lo como desejar.
 
-
 ## Deploy
 
-- 
+- https://hugozauad.github.io/LoginHBOMAX/
