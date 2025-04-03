@@ -7,31 +7,60 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
-        href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap"
+        href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
         rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
     <link rel="stylesheet" href="style.css">
+
     <title>HBO MAX</title>
 </head>
 
 <body>
-    <nav>
-        <div>
+    <section>
+        <div id="bg">
+            <img src="./Assets/bg.png" alt="" srcset="">
+        </div>
+    </section>
+    <header>
+        <nav>
             <div id="icons">
-                <i class="fa-duotone fa-solid fa-bars "></i>
-                <i class="fa-solid fa-magnifying-glass"></i>
+                <img src="./Assets/menu.svg" alt="" srcset="">
+                <img src="./Assets/lupa.svg" alt="" srcset="">
             </div>
 
-            <div>
+            <a href="https://www.max.com/br/pt" target="_blank">
                 <img id="logo" src="./Assets/hbo.svg" alt="" srcset="">
-            </div>
+            </a>
 
-            <div>
+            <div id="text">
                 <h1>Assinar</h1>
                 <h1>Entrar</h1>
             </div>
+        </nav>
+    </header>
+    <main>
+        <h1>ENTRAR</h1>
+        <h2>Você tem uma conta HBO Max?</h2>
+
+        <div>
+            <h3>E-mail</h3>
+            <input type="text" placeholder="Digite seu e-mail" class="input">
         </div>
-    </nav>
+
+        <div>
+            <h3>Senha</h3>
+            <input type="password" placeholder="Digite sua senha" class="input">
+        </div>
+
+        <button class="btn" type="button">Entrar</button>
+
+        <h3 id="prov">Você acessa a HBO Max por um provedor<br />
+            de TV, de internet ou celular?</h3>
+
+        <button class="btn" type="button">Entrar como provedor</button>
+
+    </main>
+
 </body>
 
 </html>
